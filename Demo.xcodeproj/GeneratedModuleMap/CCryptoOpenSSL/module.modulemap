@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/everis/Documents/DevIOS/VAPOR/Demo/.build/checkouts/crypto.git-7714699336033223912/Sources/CCryptoOpenSSL/include"
+    export *
+}
